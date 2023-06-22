@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+	body{background:url(../images（图像）/背景图.png) no-repeat;}
+	.one{margin-left:330px;
+		border:1px solid #4E88AC;
+		width:270px;
+		height:900px;
+		background:rgba(255,255,255,0.4);
+		margin-top:20px;
+		float:left;
+	}
+	.two{margin-left:602px;
+		border:1px solid #4E88AC;
+		width:590px;
+		height:900px;
+		padding-top:40px
+		background:rgba(255,255,255,0.4);
+		}
+.sy{padding-left:500px;
+	padding-top: 10px;
+	width:2px;height:30px;
+	}
+.biaoge{padding-left:77px;}
+	.tuxiang{padding-left:80px;
+			padding-top:50px;}
+	
+	.nianling{height:23px;}
+	.xingbie{height:20px;}
+	.shujutiao{height:30px;}
+	.jisuanji{height:32px;}
+.yinyue{align:left;
+		width:300px;
+		height:30px;
+		border:1px solid gerrn;
+		background:rgba(255,255,255,0.3)}
+.yinyue2{opacity:0.3;}
+body:hover{background:url(../images（图像）/22.png) no-repeat;
+			transition:background 3s ease-in-out 4s;}
